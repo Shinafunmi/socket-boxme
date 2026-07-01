@@ -1,0 +1,9 @@
+{
+    "name": "boxme-example",
+    "version": "0.0.1",
+    "description": " my first socket.io app",
+    "dependencies": {
+        "express": "^4.22.2",
+        "socket.io": "^4.8.3"
+    }
+}
